@@ -1,1 +1,1 @@
-XBOX-Omega-Repository
+Omega-Repository
